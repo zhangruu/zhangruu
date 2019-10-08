@@ -1,5 +1,2 @@
-# zhangruu
-关于茹茹的项目
-## 123
-456789900
-# abc
+# Bootstrap演示项目
+利用Boostrap制作的某管理系统
